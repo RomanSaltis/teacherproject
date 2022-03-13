@@ -6,8 +6,7 @@
        <div class="col-md-8">
            <div class="card">
                <div class="card-header">Create group</div>
-
-               <div class="card-body">
+                <div class="card-body">
                     <form method="POST" action="{{route('group.store')}}">
                         <div class="form-group">
                             <label>Group number</label>
